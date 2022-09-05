@@ -12,3 +12,6 @@ scikit-learn==1.1.2
 # ve bieu do
 matplotlib==3.5.3
 pyqt5==5.15.7
+
+# read csv
+pandas==1.4.4
